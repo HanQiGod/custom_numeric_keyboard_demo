@@ -6,6 +6,11 @@
 - 金额输入模式（支持两位小数）
 - 删除、长按清空、收起、完成等基础交互
 
+## 文章地址[]
+
+## 展示图
+![展示图](assets/images/custom_numeric_keyboard_demo.gif)
+
 ## 目录结构
 
 ```text
