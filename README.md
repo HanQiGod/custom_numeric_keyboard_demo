@@ -14,7 +14,7 @@ lib/
   src/
     app.dart
     pages/
-      custom_numeric_keyboard_page.dart
+      number_keyboard_page.dart
     widgets/
-      custom_numeric_keyboard.dart
+      hs_number_keyboard.dart
 ```
